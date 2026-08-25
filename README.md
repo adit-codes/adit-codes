@@ -8,9 +8,7 @@
   <br />
 
   <!-- Animated Glowing Badges -->
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Target-IIITH_LEEE-8A2BE2?style=for-the-badge" />
+
 
   <br/><br/>
 
